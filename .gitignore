@@ -1,0 +1,24 @@
+vendor
+composer.lock
+composer.phar
+
+
+# PhpStorm
+.idea
+
+
+## OS ##
+
+# Linux
+*~
+*.swp
+.directory
+
+# Windows
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Mac
+.DS_Store*
+._*

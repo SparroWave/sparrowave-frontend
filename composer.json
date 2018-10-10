@@ -1,0 +1,22 @@
+{
+  "name": "sparrowave/frontend",
+  "description": "SparroWave gives you the best way to build in hours the best webapp (from the simplest one to the most complex one such as a SaaS).",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pierre-Henry Soria",
+      "email": "hi@ph7.me",
+      "role": "Founder, Architect and Lead Dev",
+      "homepage": "http://pierrehenry.be"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.0",
+    "sparrowave/kernel": "^1.0"
+  },
+  "support": {
+    "source": "https://github.com/SparroWave/frontend",
+    "issues": "https://github.com/SparroWave/frontend/issues"
+  }
+}
